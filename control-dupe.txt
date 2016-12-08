@@ -1,0 +1,5 @@
+S35,S36,S38,S40,S42,S44,S46,S49,S50,S53,S54,S63,S68,S71,S72,S88
+
+These are the designations of strains that were either controls, or experimental duplicates (multiple samples taken from the same enrichment culture).
+
+These were revealed after the analysis was complete for the first time, making it a way of blind-testing our data. Our conclusions did not significantly change after their removal.
